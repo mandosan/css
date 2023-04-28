@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+justify-content: center;
+    height: 400px;
+    background-color: #d0d1d3;
+    background: url('https://images.unsplash.com/photo-1681842220536-89efb94d3513?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80') bottom no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: rgba(255, 255, 255, 0.992);
+    font-size: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.news {
+    background-color: #fff;
+    padding: 30px 0 32px;
+}
+
+article {
+    width: 750px;
+    margin: 0 auto 32px;
+    padding: 6px 15px;
+    border-bottom: 1px #0255f9;
+  
+}
+
+article a {
+color: black;
+text-decoration: none;
+}
+
+article a:hover {
+    color: #0073ad;
+}
+
+article h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+}
+.article-meta {
+    color: rgb(134,142,150);
+    margin-bottom: 5px;
+}
+article img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+footer {
+padding-top: 20px;
+padding-bottom: 60px;
+text-align: center;
+}
+footer .links {
+    margin-bottom: 50px;
+}
+footer .links > a {
+    color: slategray;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.copyright {
+color: rgb(108,117,125);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.news2 {
+    background-color: #fff;
+    padding: 0px 0 32px;
+}
+          
+    .article-beta {
+        color: rgb(134,142,150);
+        margin-bottom: 5px;
+    }
+
+    .news3 {
+        background-color: #fff;
+        padding: 0px 0 32px;
+    }
+    .article-zeta {
+color: rgb(134,142,150);
+margin-bottom: 5px;
+    }
+    .article-veta {
+        color: rgb(134,142,150);
+        margin-bottom: 5px;
+    }
+    .article-jeta {
+        color: rgb(134,142,150);
+        margin-bottom: 5px;
+    }
